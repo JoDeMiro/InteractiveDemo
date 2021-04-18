@@ -1,6 +1,6 @@
 # Interactive Machine Learning (with [IPython Widgets](https://ipywidgets.readthedocs.io))
 
-<p align="center"><img src="https://raw.githubusercontent.com/JoDeMiro/InteractiveDemo/master/InteractiveDemo.gif"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/JoDeMiro/InteractiveDemo/master/InteractiveDemo.png"/></p>
 
 ## Widgets
 
